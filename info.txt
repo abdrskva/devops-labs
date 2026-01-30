@@ -1,0 +1,4 @@
+Name: Salima
+Course: DevOps Essentials
+Week: 1
+Status : Completed
